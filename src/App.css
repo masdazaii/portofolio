@@ -1,0 +1,74 @@
+.MuiToolbar-root-40 > a > h6{
+  color: white;
+}
+
+.MuiButton-label-99{
+  color: white;
+}
+
+.MuiButton-label-45{
+  color: white;
+  text-decoration: inherit;
+}
+
+.position{
+  text-align: center;
+  align-items: inherit;
+  margin-left: 35%;
+}
+
+.ui.segment{
+  text-align:center;
+  display: inline-block;
+}
+
+.ui.stackable.two.column.grid{
+  text-align:center;
+  display: inline-block;
+  margin-top: 1%;
+  margin-left: 12%;
+}
+
+.ui.inverted.segment{
+  width:100%;
+}
+
+.ui.inverted.pointing.secondary.menu{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ui.fluid.container{
+  text-align:center;
+  display: inline-block;
+}
+
+.ui.container{
+  display:flex;
+  text-align:center;
+  display: inline-block;
+}
+
+.bungkusContact{
+  padding-top:3%;
+}
+
+.bungkusform{
+  margin-top: 3%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.ui.doubling.four.column.grid{
+  margin-top:50px;
+  margin-left: 50px;
+}
+
+.bungkusfooter{
+  margin-left: 17.8em;
+  
+  height: auto;
+  width: 800px;;
+}
